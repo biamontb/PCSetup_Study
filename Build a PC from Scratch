@@ -1,0 +1,33 @@
+
+Build a PC from Scratch
+____________________________________________________
+
+1. Necessary Components
+  Processor (CPU): The brain of the machine.
+  Motherboard: Connects all components.
+  RAM Memory: Necessary to run games and applications.
+  Storage: SSD (preferred) or HDD for the system and files.
+  Power Supply (PSU): Power for the components.
+  Graphics Card (GPU): Essential for gaming and high performance.
+  Case: Box to house the parts.
+  Cooler: For cooling the processor.
+
+2. Step-by-Step Assembly
+  Prepare the Motherboard: Outside the case, place the motherboard on a non-conductive surface.
+  Install the Processor: Open the CPU socket on the motherboard, align the processor triangle with the one on the board and gently insert it (without forcing).
+  Install the RAM Memory: Open the slot latches and press the modules until you hear a click.
+  Install the M.2 SSD (if present): Fit the NVMe SSD into the dedicated slot and screw it in.
+  Apply Thermal Paste and Cooler: Apply a small amount to the processor and attach the cooler.
+  Install the Motherboard in the Case: Attach the motherboard I/O shield to the case, place the standoffs and screws.
+  Install the Power Supply (PSU): Screw the power supply into the case.
+  Install the Graphics Card (GPU): Fit it into the motherboard's PCIe slot and screw it into the case.
+  Connections: Connect the 24-pin cable (motherboard), 8-pin cable (CPU), the power supply cables to the GPU, and the front panel of the case.
+
+3. Finalization
+  Organize the cables to improve airflow.
+  Connect the monitor, keyboard, and mouse.
+  Plug it into the power outlet, start the PC, install the operating system and drivers.
+
+4. Important Tips
+  Use an anti-static wrist strap or touch something grounded in metal to avoid damaging the components.
+  Check the motherboard manual to confirm compatibility.
